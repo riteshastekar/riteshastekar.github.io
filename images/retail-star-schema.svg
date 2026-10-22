@@ -12,5 +12,5 @@
 <rect x="660" y="372" width="180" height="66" rx="12" fill="#2a1f55" stroke="#a79bff" stroke-width="2"/>
 <g fill="#fff" font-size="16" font-weight="700" text-anchor="middle"><text x="150" y="101">dim_customer</text><text x="450" y="81">dim_date</text><text x="750" y="101">dim_product</text><text x="150" y="411">dim_geo</text><text x="450" y="431">dim_campaign</text><text x="750" y="403">dim_order_flags</text></g>
 <text x="750" y="424" fill="#cfc8ff" font-size="12" text-anchor="middle">junk dimension</text>
-<text x="450" y="488" fill="#8ea1c6" font-size="13" text-anchor="middle">Simplified star schema: 6 dimensions, 1 fact tables</text>
+<text x="450" y="488" fill="#8ea1c6" font-size="13" text-anchor="middle">Simplified star schema: 6 dimensions, 1 fact table</text>
 </svg>
